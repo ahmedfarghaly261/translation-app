@@ -1,1 +1,0 @@
- # If using a downloaded pretrained model
